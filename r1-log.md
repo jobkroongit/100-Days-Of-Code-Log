@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Ronde 1 - Job Kroon
 
-De log van mijn #100DaysOfCode challenge. Begonnen op [vrijdag, 6 Januari 2023].
+De log van mijn #100DaysOfCode challenge. Begonnen op [vrijdag, 6 Januari 2023]
 
 ## Log
 

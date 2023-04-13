@@ -1,3 +1,9 @@
+# #100DaysOfCode Log - Ronde 2 - Job Kroon
+
+De log van mijn #100DaysOfCode challenge. Begonnen op [XX-XX-XXX]
+
+## Log
+
 ### R2D1
 ### R2D2
 ### R2D3
