@@ -351,7 +351,11 @@ Made a web scraper with JavaScript nodejs, express, cheerios and axios.
 Setting up a boilerplate in html, css and JavaScript for fast set-up future projects.
 
 ### R1D86
+Building a dark and light theme switcher in javascript.
+
 ### R1D87
+Continueing building a dark and light theme switcher in javascript.
+
 ### R1D88
 ### R1D89
 ### R1D90
