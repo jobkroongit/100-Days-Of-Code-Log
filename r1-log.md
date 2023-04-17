@@ -360,6 +360,8 @@ Building a dark and light theme switcher in javascript.
 Continueing building a dark and light theme switcher in javascript.
 
 ### R1D89
+Finishing up the dark and light theme switcher.
+
 ### R1D90
 ### R1D91
 ### R1D92
