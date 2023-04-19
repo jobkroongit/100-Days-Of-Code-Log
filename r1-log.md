@@ -363,6 +363,8 @@ Continueing building a dark and light theme switcher in javascript.
 Finishing up the dark and light theme switcher.
 
 ### R1D90
+Dark and light theme is finished. Styling the theme with (s)CSS.
+
 ### R1D91
 ### R1D92
 ### R1D93
