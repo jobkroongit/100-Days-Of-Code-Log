@@ -366,6 +366,8 @@ Finishing up the dark and light theme switcher.
 Dark and light theme is finished. Styling the theme with (s)CSS.
 
 ### R1D91
+Returning to my smart brains app. Still a parse error and nit able to register user.
+
 ### R1D92
 ### R1D93
 ### R1D94
