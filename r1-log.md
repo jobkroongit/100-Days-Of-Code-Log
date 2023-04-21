@@ -369,6 +369,8 @@ Dark and light theme is finished. Styling the theme with (s)CSS.
 Returning to my smart brains app. Still a parse error and nit able to register user.
 
 ### R1D92
+Found the bug, wrong ports in the .env file and a typeerror instead of .returning I used .returing. Bummer!
+
 ### R1D93
 ### R1D94
 ### R1D95
