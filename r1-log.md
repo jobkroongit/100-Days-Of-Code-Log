@@ -372,7 +372,11 @@ Returning to my smart brains app. Still a parse error and nit able to register u
 Found the bug, wrong ports in the .env file and a typeerror instead of .returning I used .returing. Bummer!
 
 ### R1D93
+Continuing Reactjs course and setting up my blog, chef to dev.
+
 ### R1D94
+Work on Kroonmaker website and businesscard project.
+
 ### R1D95
 ### R1D96
 ### R1D97
