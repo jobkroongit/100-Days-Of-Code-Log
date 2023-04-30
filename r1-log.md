@@ -378,8 +378,14 @@ Continuing Reactjs course and setting up my blog, chef to dev.
 Work on Kroonmaker website and businesscard project.
 
 ### R1D95
+Learning about rendering in React. This is a great interactive source to get the grasp of how simple react actually is.
+
 ### R1D96
+The main concepts of React: 1. Don't manipulate the DOM, React does that. 2. React is like building with Lego. 3. It has unidirectional data flow. 4. It's only used for UI
+
 ### R1D97
+Using #scss in my React project. Sass allows: Nested syntax, Mixins to group and reuse lines, Partials & Import to break up files into smaller ones and import any time using underscore and makes #css simpler, more reliable and organized.
+
 ### R1D98
 ### R1D99
 ### R1D100
