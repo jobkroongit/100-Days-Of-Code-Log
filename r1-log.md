@@ -384,8 +384,12 @@ Learning about rendering in React. This is a great interactive source to get the
 The main concepts of React: 1. Don't manipulate the DOM, React does that. 2. React is like building with Lego. 3. It has unidirectional data flow. 4. It's only used for UI
 
 ### R1D97
-Using #scss in my React project. Sass allows: Nested syntax, Mixins to group and reuse lines, Partials & Import to break up files into smaller ones and import any time using underscore and makes #css simpler, more reliable and organized.
+Using #scss in my React project. Sass allows: Nested syntax, Mixins to group and reuse lines, Partials & Import to break up files into smaller ones and import any time using underscore and makes css simpler, more reliable and organized.
 
 ### R1D98
+Media queries in Sass css with using mixins.
+
 ### R1D99
+A JavaScript recap of what I've learned in the past 100 days. ECMA6, arrow funtions, destructering etc.
+
 ### R1D100
