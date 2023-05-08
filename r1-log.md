@@ -393,3 +393,4 @@ Media queries in Sass css with using mixins.
 A JavaScript recap of what I've learned in the past 100 days. ECMA6, arrow funtions, destructering etc.
 
 ### R1D100
+Starting the react developer course. Setting up the project environment.
