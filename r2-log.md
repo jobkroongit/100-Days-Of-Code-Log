@@ -8,6 +8,8 @@ De log van mijn #100DaysOfCode challenge. Begonnen op 08-05-2023
 Started the React Developer 2023 course with Zero To Mastery. Did some basic refactoring and setting up the project environment.
 
 ### R2D2
+React class vs. functional components. React functional components are more concise, leading to cleaner, less complex code as to class components.
+
 ### R2D3
 ### R2D4
 ### R2D5
