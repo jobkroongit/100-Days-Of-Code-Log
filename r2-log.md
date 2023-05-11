@@ -11,7 +11,11 @@ Started the React Developer 2023 course with Zero To Mastery. Did some basic ref
 React class vs. functional components. React functional components are more concise, leading to cleaner, less complex code as to class components.
 
 ### R2D3
+Routers help create and navigate between the different URLs allowing the user to move between components while preserving user state.
+
 ### R2D4
+When working in production environments instead of your localhost project when learning how to code, it's going to be an essential part of your skillset.
+
 ### R2D5
 ### R2D6
 ### R2D7
