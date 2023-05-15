@@ -17,6 +17,8 @@ Routers help create and navigate between the different URLs allowing the user to
 When working in production environments instead of your localhost project when learning how to code, it's going to be an essential part of your skillset.
 
 ### R2D5
+Working on my webshop project. Importing fonts and strucutring the project with sass and created different components; category-item and directory to structure the project.
+
 ### R2D6
 ### R2D7
 ### R2D8
