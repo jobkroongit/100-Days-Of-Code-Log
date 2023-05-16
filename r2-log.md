@@ -20,6 +20,8 @@ When working in production environments instead of your localhost project when l
 Working on my webshop project. Importing fonts and strucutring the project with sass and created different components; category-item and directory to structure the project.
 
 ### R2D6
+Obligatory client design work to developer handoff. Exporting design files into codeble naming conventions.
+
 ### R2D7
 ### R2D8
 ### R2D9
