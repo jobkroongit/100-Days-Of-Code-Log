@@ -23,6 +23,8 @@ Working on my webshop project. Importing fonts and strucutring the project with 
 Obligatory client design work to developer handoff. Exporting design files into codeble naming conventions.
 
 ### R2D7
+Hacking Svelte and Sveltekit. Learning the syntax, best stacks, project scaffolding and component creation.
+
 ### R2D8
 ### R2D9
 ### R2D10
