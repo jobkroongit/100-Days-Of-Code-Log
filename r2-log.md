@@ -26,10 +26,20 @@ Obligatory client design work to developer handoff. Exporting design files into 
 Hacking Svelte and Sveltekit. Learning the syntax, best stacks, project scaffolding and component creation.
 
 ### R2D8
+Implementing navigation installing React Router and how it works.
+
 ### R2D9
+Learning about Fragments. Using them instead of endless div tags. Day 10 I continue with this.
+
 ### R2D10
+Fragments allow you to return multiple elements from a React component by allowing you to group a list of children without adding extra nodes to the DOM, for example divs.
+
 ### R2D11
+Finishing up navigation of ecommerce project with React Router
+
 ### R2D12
+Learning and trying React Hooks from the ui.dev library.
+
 ### R2D13
 ### R2D14
 ### R2D15
