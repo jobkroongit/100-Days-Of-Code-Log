@@ -5,7 +5,7 @@ De log van mijn #100DaysOfCode challenge. Begonnen op 08-05-2023
 ## Log
 
 ### R2D1
-Started the React Developer 2023 course with Zero To Mastery. Did some basic refactoring and setting up the project environment.
+As a continuation of the complete webdevelopment course I Started the React Developer 2023 course from Zero To Mastery. Did some basic refactoring and setting up the project environment.
 
 ### R2D2
 React class vs. functional components. React functional components are more concise, leading to cleaner, less complex code as to class components.
@@ -41,6 +41,8 @@ Finishing up navigation of ecommerce project with React Router
 Learning and trying React Hooks from the ui.dev library.
 
 ### R2D13
+Finishing up the main navigation, setting up the Firebase environment for authentication and database usage of the project. Also a quick recap of setState and array map() methods.
+
 ### R2D14
 ### R2D15
 ### R2D16
