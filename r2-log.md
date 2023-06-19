@@ -44,6 +44,8 @@ Learning and trying React Hooks from the ui.dev library.
 Finishing up the main navigation, setting up the Firebase environment for authentication and database usage of the project. Also a quick recap of setState and array map() methods.
 
 ### R2D14
+What is CRUD and Authenticating with Firebase.
+
 ### R2D15
 ### R2D16
 ### R2D17
